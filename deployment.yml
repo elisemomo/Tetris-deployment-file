@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: mukomelise/tetris-gamev2
+        image: mukomelise/tetris-gamev1
         ports:
         - containerPort: 3000   # Use port 3000
 
